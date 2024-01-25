@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="279a510e-8476-4e83-8395-9463a0d62d7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="279a510e-8476-4e83-8395-9463a0d62d7c" name="Changes" comment="Feat: &quot;기본 기능 연습&quot;">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springspa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springspa/TestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -105,11 +104,24 @@
       <option name="presentableId" value="Default" />
       <updated>1706147644860</updated>
       <workItem from="1706147645693" duration="315000" />
-      <workItem from="1706153579500" duration="3859000" />
+      <workItem from="1706153579500" duration="4790000" />
     </task>
+    <task id="LOCAL-00001" summary="Feat: &quot;기본 기능 연습&quot;">
+      <option name="closed" value="true" />
+      <created>1706157647607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706157647607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat: &quot;기본 기능 연습&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: &quot;기본 기능 연습&quot;" />
   </component>
 </project>
