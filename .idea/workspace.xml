@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="279a510e-8476-4e83-8395-9463a0d62d7c" name="Changes" comment="Feat: &quot;기본 기능 연습&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+    <list default="true" id="279a510e-8476-4e83-8395-9463a0d62d7c" name="Changes" comment="Feat: &quot;블로그 CRUD&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springspa/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springspa/MemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springspa/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springspa/TestService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springspa/dto/UpdateArticleRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springspa/dto/UpdateArticleRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706147644860</updated>
       <workItem from="1706147645693" duration="315000" />
-      <workItem from="1706153579500" duration="11584000" />
+      <workItem from="1706153579500" duration="15271000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: &quot;기본 기능 연습&quot;">
       <option name="closed" value="true" />
@@ -193,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706158596596</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feat: &quot;블로그 CRUD&quot;">
+      <option name="closed" value="true" />
+      <created>1706165621442</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706165621442</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +201,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feat: &quot;기본 기능 연습&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: &quot;기본 기능 연습&quot;" />
+    <MESSAGE value="Feat: &quot;블로그 CRUD&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: &quot;블로그 CRUD&quot;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/springspa$Tests_in__springspa_test_.ic" NAME="Tests in 'springspa.test' Coverage Results" MODIFIED="1706163570460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
